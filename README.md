@@ -10,8 +10,8 @@ I study at MSTU "STANKIN".
 <a href="https://t.me/maybesora"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=maybesora&color=purple&labelColor=black"></a>
 <p align="center"> Now Playing — Spotify 🎧</p>
 <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31sttlpchdinmjsxdgz4cm56foqm&redirect=true">
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31sttlpchdinmjsxdgz4cm56foqm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31sttlpchdinmjsxdgz4cm56foqm&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31sttlpchdinmjsxdgz4cm56foqm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
 </a>
 </p>
 <h2 align=center> Github Stats: </h2>
